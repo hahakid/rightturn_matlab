@@ -1,2 +1,2 @@
 # rightturn_matlab
-![Result](.rightturn.gif)
+![Result](./rightturn.gif)
