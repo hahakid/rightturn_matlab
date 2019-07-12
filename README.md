@@ -13,4 +13,4 @@
 
 (cartesian) ego vehicle turn left and another vehicle turns right.
 
-![cartesian-left-right](./cartesian/left-right/logpolar-left-straight.gif)
+![cartesian-left-right](./cartesian/left-right/MyGif2.gif)
